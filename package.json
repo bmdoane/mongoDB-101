@@ -1,0 +1,23 @@
+{
+  "name": "mongoDB-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmdoane/mongoDB-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmdoane/mongoDB-101/issues"
+  },
+  "homepage": "https://github.com/bmdoane/mongoDB-101#readme",
+  "dependencies": {
+    "mongodb": "^2.2.9"
+  }
+}
